@@ -1,0 +1,18 @@
+# MATLAB workspaces and datasets
+*.mat
+
+# Temporary MATLAB files
+*.asv
+*.m~
+matlab.prf
+
+# Temporary files
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary result folders
+*/temporary/
